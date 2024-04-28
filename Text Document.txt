@@ -1,0 +1,10 @@
+############################Forecasting########################################.
+It is a technique of predicting the future based on the results of previous data of Youtube channel data.
+
+Example - weather forecast, sales forecast, flood/earthquake forecast, etc.
+
+In this project i am going to use three technique for the forecasting.
+
+1- Using Formula ( first we use formula and use exponential smoothing for forecast)
+2- Using Graph.
+3- Using forecast sheet.
